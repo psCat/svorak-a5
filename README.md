@@ -8,3 +8,6 @@ based on this bug report:
 
 for reference:
 `sudo patch -F 5 -u --verbose`
+
+
+Rebuilding xkb: `sudo dpkg-reconfigure xkb-data`
