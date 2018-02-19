@@ -8,7 +8,7 @@ index 095eaf1..238b3c3 100644
          </variant>
 +	<variant>
 +          <configItem>
-+            <name>dvorak-a5</name>
++            <name>dvorak_a5</name>
 +            <description>Swedish (Dvorak-a5)</description>
 +          </configItem>
 +        </variant>
